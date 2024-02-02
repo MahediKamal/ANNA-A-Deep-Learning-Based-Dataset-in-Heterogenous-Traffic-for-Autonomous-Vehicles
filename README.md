@@ -31,7 +31,7 @@ If you use any part of the dataset in your work, please use the following BibTeX
       primaryClass={cs.CV}
 }
 ```
-### [paper link](https://drive.google.com/drive/folders/1girVtUfxkRpYMgnl4WEAfhNBHPJPFk6h?usp=sharing)
+### [paper link](https://arxiv.org/abs/2401.11358)
 
 ## Nine types of objects are annotated in this dataset. Numbering of these 9 classes in the dataset are from 0 to 8 according to the order below (their images are added):
 
